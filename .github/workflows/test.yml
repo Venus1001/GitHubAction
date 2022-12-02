@@ -1,6 +1,6 @@
 name: Selenium Test Workflow
 
-on: pull_request
+on: push
 
 jobs: 
   Selenium Test_jobOne:
